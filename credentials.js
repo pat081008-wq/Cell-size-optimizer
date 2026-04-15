@@ -17,7 +17,7 @@
 // ═══════════════════════════════════════════════════════════════════
 
 const CELLSIZE_USERS = {
-  "admin":     "mrec2024",
+  "Patrick Richards":     "rT4*U5xMmX",
   "demo":      "demo",
   "mrec":      "mrec2024"
 };
