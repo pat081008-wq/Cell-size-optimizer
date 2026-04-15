@@ -18,6 +18,6 @@
 
 const CELLSIZE_USERS = {
   "Patrick Richards":     "rT4*U5xMmX",
-  "demo":      "demo",
+  "Dean Richards":      "gF^s$%p3mV",
   "mrec":      "mrec2024"
 };
